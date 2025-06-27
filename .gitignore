@@ -74,7 +74,8 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
-
+bge-m3/
+qwen3-embedding/
 # Jupyter Notebook
 .ipynb_checkpoints
 
